@@ -64,7 +64,7 @@ def create_backup(source: str, destination: str):
             
             progress.update(task, completed=100)
 
-        console.print(f"\n[success]✨ Success![/success] Backup completed at {final_dest}")
+        console.print(f"\n[success]Success![/success] Backup completed at {final_dest}")
 
     except Exception as e:
         console.print(f"[error]CRITICAL FAILURE:[/error] {str(e)}")
