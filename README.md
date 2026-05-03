@@ -4,7 +4,7 @@ OmniBackup is a lightweight yet powerful command-line interface (CLI) tool desig
 
 ## ✨ Features
 
-- **Recursive Backups**: Effortlessly backup entire directory structures.
+- **Recursive Backups**: Effortlessly backup entire directory structures. 
 - **Smart Versioning**: Automatically creates timestamped backup folders to prevent overwrites.
 - **Visual Feedback**: Beautiful terminal UI using `Rich` for progress tracking and status reports.
 - **Flexible Targets**: Supports both single files and complex directory trees.
