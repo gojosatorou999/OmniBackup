@@ -1,6 +1,6 @@
 # OmniBackup: Precision CLI Backup Tool
 
-OmniBackup is a lightweight yet powerful command-line interface (CLI) tool designed for seamless file and directory backups. Built with performance and user experience in mind, it provides a "premium" terminal experience while ensuring your data remains safe.
+OmniBackup is a lightweight yet powerful command-line interface (CLI) tool designed for seamless file and directory backups. Built with performance and user experience in mind, it provides a "premium" terminal experience while ensuring your da ta remains safe.
 
 ## ✨ Features
 
