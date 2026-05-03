@@ -9,8 +9,7 @@ OmniBackup is a lightweight yet powerful command-line interface (CLI) tool desig
 - **Visual Feedback**: Beautiful terminal UI using `Rich` for progress tracking and status reports.
 - **Flexible Targets**: Supports both single files and complex directory trees.
 - **Dry Run Support**: (Upcoming) Preview backup operations before execution.
-
-## 🚀 Installation
+ 
 
 1. **Clone the repository:**
    ```bash
