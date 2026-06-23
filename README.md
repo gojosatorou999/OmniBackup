@@ -11,7 +11,7 @@ OmniBackup is a lightweight yet powerful command-line interface (CLI) tool desig
 - **Dry Run Support**: (Upcoming) Preview backup operations before execution.
  
 ## Installation steps        
-1. **Clone the repository:**
+1. **Clone the repository:** 
    ```bash
    git clone https://github.com/USER_NAME/OmniBackup.git
    cd OmniBackup
